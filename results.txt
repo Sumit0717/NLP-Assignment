@@ -1,0 +1,11 @@
+Epoch 0, Loss: 62.1734
+Epoch 100, Loss: 22.9006
+Epoch 200, Loss: 24.8108
+Epoch 300, Loss: 25.1825
+Epoch 400, Loss: 24.1403
+
+Training Complete
+
+language understanding requires understanding context understanding understanding context understanding
+transformers powerful deep powerful powerful models learning models powerful
+artificial intelligence intelligence intelligence transforming transforming intelligence is is transforming
